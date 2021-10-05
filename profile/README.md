@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-[@Ifycode](https://github.com/Ifycode) welcomes you to the Code Collabo FOSS community.
+[@Ifycode](https://github.com/Ifycode) welcomes you to the Code Collabo FOSS community. Feel free to contribute to our community projects. Read about Code Collabo and how to start contributing to community projects from the [code-collabo documentation guide](https://code-collabo.gitbook.io/doc/).
 
-Testing profile readme works. Updating soon!
-
+## Collabo projects
+### node-mongo
 ![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)
+
+### scss-helper-library
 
 
 <!--
