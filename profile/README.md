@@ -1,11 +1,15 @@
-## Hi there 👋
+## Code Collabo
 
-[@Ifycode](https://github.com/Ifycode) welcomes you to the Code Collabo FOSS community. Feel free to contribute to our community projects. Read about Code Collabo and how to start contributing to community projects from the [code-collabo documentation guide](https://code-collabo.gitbook.io/doc/).
+🙋‍♀️ [@Ifycode](https://github.com/Ifycode) welcomes you to the Code Collabo FOSS community. 
+
+🌈 Code Collabo is a Free and Open Source Community packed with awesome collaboration projects to provide support and open source experience. 
+
+👩‍💻 Read about Code Collabo and how to start contributing to community projects from the [code-collabo documentation guide](https://code-collabo.gitbook.io/doc/).
 
 ## Collabo projects
-![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)
-* [node-mongo](https://code-collabo.gitbook.io/node-mongo/)
-* [scss-helper-library](https://code-collabo.gitbook.io/scss-helper-library/)
+
+|[![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/) [node-mongo](https://code-collabo.gitbook.io/node-mongo/)|[![temporary-library-img](https://user-images.githubusercontent.com/45185388/137257011-b0b9808f-61af-457c-8856-1bcd5a95cfb5.png)](https://code-collabo.gitbook.io/scss-helper-library/) [helper-library](https://code-collabo.gitbook.io/scss-helper-library/)|
+|--|--|
 
 
 <!--
