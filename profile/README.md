@@ -8,7 +8,7 @@
 
 ## Collabo projects
 
-|[![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/) [node-mongo cli](https://code-collabo.gitbook.io/node-mongo/)|[![temporary-library-img](https://user-images.githubusercontent.com/45185388/137257011-b0b9808f-61af-457c-8856-1bcd5a95cfb5.png)](https://code-collabo.gitbook.io/scss-helper-library/) [style-library](https://code-collabo.gitbook.io/scss-helper-library/)|
+|[![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/) [node-mongo cli](https://code-collabo.gitbook.io/node-mongo/)| [![styles-library-img](https://user-images.githubusercontent.com/45185388/138577389-57b90219-b8e5-45bf-9b5c-7c11375e107e.png)](https://github.com/code-collabo/styles-library) [styles-library](https://code-collabo.gitbook.io/styles-library/)|
 |--|--|
 
 
