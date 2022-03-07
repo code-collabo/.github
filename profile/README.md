@@ -8,7 +8,17 @@
 
 👩‍💻 Read about how to start contributing to community projects from the **collabo guidelines** section of the [code-collabo documentation guide](https://code-collabo.gitbook.io/doc/).
 
+👀 Find projects to contribute to through the project board links below.
+
+#
+- 👉 [Project board: @code-collabo/node-mongo](https://github.com/code-collabo/node-mongo-cli/projects)
+- 👉 [Project board: @code-collabo/styles-library](https://github.com/code-collabo/styles-library/projects)
+
+
+<!--
 👀 Find main projects in the pinned section below or through the **collabo projects** section of the code-collabo documentation guide.
+-->
+
 
 <!--
 ## Collabo projects
