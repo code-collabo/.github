@@ -14,7 +14,7 @@
 
 - 👉 [Project board: @code-collabo/node-mongo](https://github.com/code-collabo/node-mongo-cli/projects)
 - 👉 [Project board: @code-collabo/styles-library](https://github.com/code-collabo/styles-library/projects)
-- 👉 [Readme (no project board): @code-collabo/submit-a-blog-post](https://github.com/code-collabo/submit-a-blog-post)
+- 👉 [Readme (no project board): @code-collabo/community-blog](https://github.com/code-collabo/community-blog)
 
 
 <!--
