@@ -4,31 +4,7 @@
 
 🙋‍♀️ [@Ifycode](https://github.com/Ifycode) welcomes you to the Code Collabo FOSS community. 
 
-🌈 Code Collabo is a Free and Open Source Community packed with awesome collaboration projects to provide support and open source experience. 
-
-👩‍💻 Read about how to start contributing to community projects from the **collabo guidelines** section of the [code-collabo documentation guide](https://code-collabo.gitbook.io/doc/).
-
-👀 Find projects to contribute to through the project board links below.
-
-#
-
-- 👉 [Project board: @code-collabo/node-mongo](https://github.com/code-collabo/node-mongo-cli/projects)
-- 👉 [Project board: @code-collabo/styles-library](https://github.com/code-collabo/styles-library/projects)
-- 👉 [Readme (no project board): @code-collabo/community-blog](https://github.com/code-collabo/community-blog)
-
-
-<!--
-👀 Find main projects in the pinned section below or through the **collabo projects** section of the code-collabo documentation guide.
--->
-
-
-<!--
-## Collabo projects
-
-|[![node-mongo](https://github.com/Ifycode/Ifycode/blob/main/code-collabo/node-mongo-cli.gif?raw=true)](https://code-collabo.gitbook.io/node-mongo/) [node-mongo cli](https://code-collabo.gitbook.io/node-mongo/)| [![styles-library-img](https://user-images.githubusercontent.com/45185388/138577389-57b90219-b8e5-45bf-9b5c-7c11375e107e.png)](https://github.com/code-collabo/styles-library) [styles-library](https://github.com/code-collabo/styles-library)|
-|--|--|
--->
-
+👩‍💻 Everything you need to know about the Code Collabo community and projects is in the [collabo community docs](https://code-collabo.gitbook.io/community-doc).
 
 <!--
 
