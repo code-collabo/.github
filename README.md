@@ -1,5 +1,5 @@
 # Code Collabo
-The parent repo for all [@code-collabo](https://github.com/code-collabo) community projects on GitHub. 
+The parent repo for all projects within the [@code-collabo](https://github.com/code-collabo) community on GitHub. 
 
 ## Collabo projects
 ## Collabo contributors
