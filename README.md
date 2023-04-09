@@ -1,3 +1,3 @@
-# @code-collabo
-## Project list
-## Contributors
+# Code Collabo
+## Collabo projects
+## Collabo contributors
