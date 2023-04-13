@@ -1,5 +1,7 @@
 # Code Collabo
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/github/all-contributors/code-collabo/.github?color=ee8449&style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The parent repo for all projects within the [@code-collabo](https://github.com/code-collabo) community on GitHub. 
 
