@@ -17,6 +17,7 @@ The parent repo for all projects within the [@code-collabo](https://github.com/c
 [Join Collabo community gitter chat](https://matrix.to/#/#code-collabo-foss-community:gitter.im)
 
 ## Collabo contributors
+These awesome persons have contributed to one or more of collabo projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
