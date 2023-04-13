@@ -3,11 +3,24 @@
   "projectOwner": "code-collabo",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 6,
   "contributorsSortAlphabetically": true,
   "skipCi": true,
-  "contributors": []
+  "contributors": [
+    {
+      "login": "Ifycode",
+      "name": "@Ifycode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45185388?v=4",
+      "profile": "https://github.com/Ifycode",
+      "contributions": [
+        "platform"
+      ]
+    }
+  ],
+  "commitConvention": "angular"
 }
