@@ -1,4 +1,6 @@
 # Code Collabo
+[![Collabo Contributors](https://img.shields.io/github/all-contributors/code-collabo/.github?color=ee8449&style=flat-square)](#contributors)
+
 The parent repo for all projects within the [@code-collabo](https://github.com/code-collabo) community on GitHub. 
 
 ## Collabo projects
@@ -12,3 +14,13 @@ The parent repo for all projects within the [@code-collabo](https://github.com/c
 ## Collabo community chat
 [Join Collabo community gitter chat](https://matrix.to/#/#code-collabo-foss-community:gitter.im)
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
