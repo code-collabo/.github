@@ -1,0 +1,13 @@
+{
+  "projectName": "contributors",
+  "projectOwner": "code-collabo",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": ["README.md"],
+  "imageSize": 100,
+  "commit": false,
+  "contributorsPerLine": 5,
+  "contributorsSortAlphabetically": true,
+  "skipCi": true,
+  "contributors": []
+}
