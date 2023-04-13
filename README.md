@@ -1,6 +1,6 @@
 # Code Collabo
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The parent repo for all projects within the [@code-collabo](https://github.com/code-collabo) community on GitHub. 
@@ -34,6 +34,7 @@ These awesome persons have contributed to one or more of collabo projects. This 
     </tr>
     <tr>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/samuko-things"><img src="https://avatars.githubusercontent.com/u/75276934?v=4?s=100" width="100px;" alt="Obiagba Samuel"/><br /><sub><b>Obiagba Samuel</b></sub></a><br /><a href="#platform-samuko-things" title="Packaging/porting to new platform">📦</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://www.blessingolaleye.xyz/"><img src="https://avatars.githubusercontent.com/u/70102539?v=4?s=100" width="100px;" alt="Olaleye Blessing"/><br /><sub><b>Olaleye Blessing</b></sub></a><br /><a href="#platform-Olaleye-Blessing" title="Packaging/porting to new platform">📦</a></td>
       <td align="center" valign="top" width="16.66%"><a href="http://rashidmya.dev"><img src="https://avatars.githubusercontent.com/u/64389512?v=4?s=100" width="100px;" alt="Rashid"/><br /><sub><b>Rashid</b></sub></a><br /><a href="#platform-rashidmya" title="Packaging/porting to new platform">📦</a></td>
     </tr>
   </tbody>
