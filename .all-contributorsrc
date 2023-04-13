@@ -38,6 +38,15 @@
       "contributions": [
         "platform"
       ]
+    },
+    {
+      "login": "hritikr",
+      "name": "Hritik R",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35923605?v=4",
+      "profile": "https://github.com/HritikR",
+      "contributions": [
+        "platform"
+      ]
     }
   ],
   "commitConvention": "angular"
