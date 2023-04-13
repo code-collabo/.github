@@ -1,6 +1,6 @@
 # Code Collabo
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The parent repo for all projects within the [@code-collabo](https://github.com/code-collabo) community on GitHub. 
@@ -45,6 +45,7 @@ These awesome persons have contributed to one or more of collabo projects. This 
       <td align="center" valign="top" width="16.66%"><a href="https://www.blessingolaleye.xyz/"><img src="https://avatars.githubusercontent.com/u/70102539?v=4?s=100" width="100px;" alt="Olaleye Blessing"/><br /><sub><b>Olaleye Blessing</b></sub></a><br /><a href="#platform-Olaleye-Blessing" title="Packaging/porting to new platform">📦</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/rk-1620"><img src="https://avatars.githubusercontent.com/u/109271418?v=4?s=100" width="100px;" alt="Rakesh Kumar"/><br /><sub><b>Rakesh Kumar</b></sub></a><br /><a href="#platform-rk-1620" title="Packaging/porting to new platform">📦</a></td>
       <td align="center" valign="top" width="16.66%"><a href="http://rashidmya.dev"><img src="https://avatars.githubusercontent.com/u/64389512?v=4?s=100" width="100px;" alt="Rashid"/><br /><sub><b>Rashid</b></sub></a><br /><a href="#platform-rashidmya" title="Packaging/porting to new platform">📦</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="http://linkfree.eddiehub.io/YashPimple"><img src="https://avatars.githubusercontent.com/u/97302447?v=4?s=100" width="100px;" alt="Yash Pimple"/><br /><sub><b>Yash Pimple</b></sub></a><br /><a href="#platform-YashPimple" title="Packaging/porting to new platform">📦</a></td>
     </tr>
   </tbody>
 </table>
