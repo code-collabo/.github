@@ -1,6 +1,6 @@
 # Code Collabo
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The parent repo for all projects within the [@code-collabo](https://github.com/code-collabo) community on GitHub. 
@@ -38,9 +38,10 @@ These awesome persons have contributed to one or more of collabo projects. This 
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/JaisonBinns"><img src="https://avatars.githubusercontent.com/u/44371995?v=4?s=100" width="100px;" alt="JayBee"/><br /><sub><b>JayBee</b></sub></a><br /><a href="#platform-JaisonBinns" title="Packaging/porting to new platform">📦</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://keithanphilander-e53b5c.netlify.app/"><img src="https://avatars.githubusercontent.com/u/29425128?v=4?s=100" width="100px;" alt="Keithan Philander"/><br /><sub><b>Keithan Philander</b></sub></a><br /><a href="#platform-KeithanPhilander" title="Packaging/porting to new platform">📦</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/LucianeFernandesRoque"><img src="https://avatars.githubusercontent.com/u/65911301?v=4?s=100" width="100px;" alt="Luciane Fernandes Roque"/><br /><sub><b>Luciane Fernandes Roque</b></sub></a><br /><a href="#platform-LucianeFernandesRoque" title="Packaging/porting to new platform">📦</a></td>
-      <td align="center" valign="top" width="16.66%"><a href="https://www.linkedin.com/in/izhar360/"><img src="https://avatars.githubusercontent.com/u/79567009?v=4?s=100" width="100px;" alt="Muhammad Izhar"/><br /><sub><b>Muhammad Izhar</b></sub></a><br /><a href="#platform-izhar360" title="Packaging/porting to new platform">📦</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/ManasviGoyal"><img src="https://avatars.githubusercontent.com/u/55101825?v=4?s=100" width="100px;" alt="Manasvi Goyal"/><br /><sub><b>Manasvi Goyal</b></sub></a><br /><a href="#platform-ManasviGoyal" title="Packaging/porting to new platform">📦</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="16.66%"><a href="https://www.linkedin.com/in/izhar360/"><img src="https://avatars.githubusercontent.com/u/79567009?v=4?s=100" width="100px;" alt="Muhammad Izhar"/><br /><sub><b>Muhammad Izhar</b></sub></a><br /><a href="#platform-izhar360" title="Packaging/porting to new platform">📦</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/samuko-things"><img src="https://avatars.githubusercontent.com/u/75276934?v=4?s=100" width="100px;" alt="Obiagba Samuel"/><br /><sub><b>Obiagba Samuel</b></sub></a><br /><a href="#platform-samuko-things" title="Packaging/porting to new platform">📦</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://www.blessingolaleye.xyz/"><img src="https://avatars.githubusercontent.com/u/70102539?v=4?s=100" width="100px;" alt="Olaleye Blessing"/><br /><sub><b>Olaleye Blessing</b></sub></a><br /><a href="#platform-Olaleye-Blessing" title="Packaging/porting to new platform">📦</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/rk-1620"><img src="https://avatars.githubusercontent.com/u/109271418?v=4?s=100" width="100px;" alt="Rakesh Kumar"/><br /><sub><b>Rakesh Kumar</b></sub></a><br /><a href="#platform-rk-1620" title="Packaging/porting to new platform">📦</a></td>
