@@ -29,6 +29,15 @@
       "contributions": [
         "platform"
       ]
+    },
+    {
+      "login": "chuddyjoachim",
+      "name": "Chikezie Joachim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56943504?v=4",
+      "profile": "http://chuddyjoachim.com",
+      "contributions": [
+        "platform"
+      ]
     }
   ],
   "commitConvention": "angular"
