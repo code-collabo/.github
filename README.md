@@ -13,3 +13,5 @@ The parent repo for all projects within the [@code-collabo](https://github.com/c
 [Join Collabo community gitter chat](https://matrix.to/#/#code-collabo-foss-community:gitter.im)
 
 ## Collabo contributors
+
+## Contributors ✨
