@@ -23,6 +23,7 @@ The parent repo for all projects within the [@code-collabo](https://github.com/c
   <tbody>
     <tr>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/Ifycode"><img src="https://avatars.githubusercontent.com/u/45185388?v=4?s=100" width="100px;" alt="@Ifycode"/><br /><sub><b>@Ifycode</b></sub></a><br /><a href="#platform-Ifycode" title="Packaging/porting to new platform">📦</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/samuko-things"><img src="https://avatars.githubusercontent.com/u/75276934?v=4?s=100" width="100px;" alt="Obiagba Samuel"/><br /><sub><b>Obiagba Samuel</b></sub></a><br /><a href="#platform-samuko-things" title="Packaging/porting to new platform">📦</a></td>
     </tr>
   </tbody>
 </table>
