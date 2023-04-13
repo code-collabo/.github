@@ -1,6 +1,6 @@
 # Code Collabo
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The parent repo for all projects within the [@code-collabo](https://github.com/code-collabo) community on GitHub. 
@@ -50,6 +50,7 @@ These awesome persons have contributed to one or more of collabo projects. This 
     </tr>
     <tr>
       <td align="center" valign="top" width="16.66%"><a href="http://linkfree.eddiehub.io/YashPimple"><img src="https://avatars.githubusercontent.com/u/97302447?v=4?s=100" width="100px;" alt="Yash Pimple"/><br /><sub><b>Yash Pimple</b></sub></a><br /><a href="#platform-YashPimple" title="Packaging/porting to new platform">📦</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/oyenuga17"><img src="https://avatars.githubusercontent.com/u/64274826?v=4?s=100" width="100px;" alt="oyenuga17"/><br /><sub><b>oyenuga17</b></sub></a><br /><a href="#platform-oyenuga17" title="Packaging/porting to new platform">📦</a></td>
     </tr>
   </tbody>
 </table>
