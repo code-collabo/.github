@@ -56,6 +56,15 @@
       "contributions": [
         "platform"
       ]
+    },
+    {
+      "login": "rashidmya",
+      "name": "Rashid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64389512?v=4",
+      "profile": "http://rashidmya.dev",
+      "contributions": [
+        "platform"
+      ]
     }
   ],
   "commitConvention": "angular"
