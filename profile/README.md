@@ -2,7 +2,7 @@
 ## Code Collabo
 -->
 
-![collabo-banner-short-variant-small-faint-40%](https://user-images.githubusercontent.com/45185388/235586919-5d810a63-03cb-417c-853c-3472f712d748.png)
+![collabo-banner-short-variant-small-85%](https://user-images.githubusercontent.com/45185388/235588957-6381f92e-4f32-4225-a159-00ab445a9fb2.png)
 
 [![Collabo Contributors](https://img.shields.io/badge/Collabo%20contributors-21-orange)](https://github.com/code-collabo/.github#collabo-contributors)
 
@@ -25,6 +25,8 @@
 ![collabo-banner-short-variant-small-faint-reversed](https://user-images.githubusercontent.com/45185388/235585508-c0bc7de0-f468-48a2-9bfd-ba8674341b2c.png)
 
 ![collabo-banner-short-variant-small-faint](https://user-images.githubusercontent.com/45185388/235584952-a2713f58-120d-4588-bb76-d713e0388b7b.png)
+
+![collabo-banner-short-variant-small-faint-40%](https://user-images.githubusercontent.com/45185388/235586919-5d810a63-03cb-417c-853c-3472f712d748.png)
 
 -->
 
