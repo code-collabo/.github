@@ -2,6 +2,8 @@
 ## Code Collabo
 -->
 
+![collabo-banner](https://user-images.githubusercontent.com/45185388/235581561-0eb49b96-7f5a-4058-88a7-b372dc015501.png)
+
 [![Collabo Contributors](https://img.shields.io/badge/Collabo%20contributors-21-orange)](https://github.com/code-collabo/.github#collabo-contributors)
 
 🙋‍♀️ [@Ifycode](https://github.com/Ifycode) welcomes you to the Code Collabo FOSS community. 
