@@ -4,8 +4,6 @@
 
 [![Collabo Contributors](https://img.shields.io/badge/Collabo%20contributors-21-orange)](https://github.com/code-collabo/.github#collabo-contributors)
 
-#
-
 🙋‍♀️ [@Ifycode](https://github.com/Ifycode) welcomes you to the Code Collabo FOSS community. 
 
 👩‍💻 Everything you need to know about the Code Collabo community and projects is in the [collabo community doc](https://code-collabo.gitbook.io/community-doc).
