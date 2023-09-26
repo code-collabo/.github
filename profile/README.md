@@ -4,7 +4,7 @@
 
 ![collabo-banner-short-variant-small-85%](https://user-images.githubusercontent.com/45185388/235588957-6381f92e-4f32-4225-a159-00ab445a9fb2.png)
 
-[![Collabo Contributors](https://img.shields.io/badge/Collabo%20contributors-21-orange)](https://github.com/code-collabo/.github#collabo-contributors) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://code-collabo.gitbook.io/community-doc-v1.0.0/collabo-guidelines/contributing)
+[![Collabo Contributors](https://img.shields.io/badge/Collabo%20contributors-23-orange)](https://github.com/code-collabo/.github#collabo-contributors) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://code-collabo.gitbook.io/community-doc-v1.0.0/collabo-guidelines/contributing)
 
 🙋‍♀️ [@Ifycode](https://github.com/Ifycode) welcomes you to the Code Collabo FOSS community. 
 
