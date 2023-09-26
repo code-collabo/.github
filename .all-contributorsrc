@@ -200,7 +200,17 @@
       "contributions": [
         "platform"
       ]
+    },
+    {
+      "login": "Festusali",
+      "name": "Festus Ali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42407804?v=4",
+      "profile": "https://festusali.com/",
+      "contributions": [
+        "platform"
+      ]
     }
   ],
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
