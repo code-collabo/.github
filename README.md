@@ -6,18 +6,22 @@
 The parent repo for all projects within the [@code-collabo](https://github.com/code-collabo) community on GitHub. 
 
 ## Collabo projects
-- [node-mongo](https://github.com/code-collabo/node-mongo)
-- [git-and-github-for-collaboration](https://github.com/code-collabo/git-and-github-for-collaboration)
-- [docs](https://github.com/code-collabo/docs)
 - [community-blog](https://github.com/code-collabo/community-blog)
-- [web-app](https://github.com/code-collabo/web-app)
-- [css](https://github.com/code-collabo/css)
-
-## Collabo community chat
-[Join the collabo community gitter chat](https://matrix.to/#/#code-collabo-foss-community:gitter.im)
+- [collabo-web-app](https://github.com/code-collabo/collabo-web-app)
+- [docs](https://github.com/code-collabo/docs)
+- [git-for-collaboration](https://github.com/code-collabo/git-for-collaboration)
+- [git-for-collaboration-course](https://github.com/code-collabo/git-for-collaboration-course)
+- [node-mongo-api-boilerplate-templates](https://github.com/code-collabo/node-mongo-api-boilerplate-templates)
+- [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli)
+- [node-mongo](https://github.com/code-collabo/node-mongo)
+- [node-mongo-scripts](https://github.com/code-collabo/node-mongo-scripts)
+- [submit-git-course-assignment](https://github.com/code-collabo/submit-git-course-assignment)
+  
+## Collabo Discord Community
+[Join the collabo community discord chat](https://discord.gg/aq7MZBAGYM)
 
 ## Collabo contributors
-These awesome persons have contributed to one or more of collabo projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key).
+These awesome people have contributed to one or more of the collabo projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
