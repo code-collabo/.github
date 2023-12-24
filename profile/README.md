@@ -8,7 +8,7 @@
 
 🙋‍♀️ [@Ifycode](https://github.com/Ifycode) welcomes you to the Code Collabo FOSS community. 
 
-👩‍💻 Everything you need to know about the Code Collabo community and projects is in the [collabo community documentation](https://collabocommunity.slite.page/p/Y7N1e13AS0YCv5/Collabo-Community).
+👩‍💻 Everything you need to know about the Code Collabo community and projects is in the [collabo community documentation](https://resources.collabocommunity.com).
 
 
 
