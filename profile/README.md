@@ -8,7 +8,7 @@
 [![Collabo Contributors](https://img.shields.io/badge/Collabo%20contributors-23-orange)](https://github.com/code-collabo/.github#collabo-contributors) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://code-collabo.gitbook.io/community-doc-v1.0.0/collabo-guidelines/contributing)
 -->
 
-🙋‍♀️ [@Ifycode](https://github.com/Ifycode) welcomes you to the Code Collabo FOSS community, subcommunity of the _**Collabo Community**_. 
+🙋‍♀️ [@Ifycode](https://github.com/Ifycode) welcomes you to the Code Collabo FOSS community, subcommunity of the **Collabo Community**. 
 
 👩‍💻 Everything you need to know about the Collabo community and projects is in the [collabo community documentation](https://resources.collabocommunity.com).
 
