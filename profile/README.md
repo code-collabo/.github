@@ -1,5 +1,6 @@
 
-> We're moving gradually to our new GitHub organisation, join us there: https://github.com/collabo-community
+> We no longer develop projects in this GitHub organisation. Head over to our new GitHub organisation to find projects to contribute to: https://github.com/collabo-community
+
 
 <!-- 
 🙋‍♀️ [@Ifycode](https://github.com/Ifycode) welcomes you to the Code Collabo FOSS community, subcommunity of the **Collabo Community**. 
